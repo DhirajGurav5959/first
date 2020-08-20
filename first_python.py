@@ -14,4 +14,8 @@ c= a-b
 
 print(c)
 
+def(add):
+  c=a+b
+  return c
+
 
